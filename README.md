@@ -15,7 +15,8 @@ Encoding:
 Example: Text: Hello World! -> 010010000110010101101100011011000110111100100000010101110110111101110010011011000110010000100001
 4. Each bit in the text replaces the LSB of each pixel in the image in sequence.
 5. The encoded image is written in the OUTPUT folder.
+
 Decoding:
-1. 1. Put the desired image to decode in the INPUT folder.
+1. Put the desired image to decode in the INPUT folder.
 2. Run main.
 3. The program gets the LSB of each pixel in the image and writes the text in a text file in the OUTPUT folder.
