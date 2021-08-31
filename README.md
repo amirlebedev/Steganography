@@ -3,6 +3,7 @@
 Please install opencv-python and numpy on your computer for the program to work.
 
 https://en.wikipedia.org/wiki/Steganography
+
 This is Least Significant Bit steganography. It changes the LSB of each pixel in an image in order to encode data.
 Currently only works for grayscale images but can be expanded to encode and decode in RGB channels.
 
