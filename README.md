@@ -2,7 +2,7 @@
 
 Please install opencv-python and numpy on your computer for the program to work.
 
-Use command: pip install -r requirements.txt
+Use command: "pip install -r requirements.txt" or install opencv-python manually.
 
 To run the program open main.py and run it.
 
