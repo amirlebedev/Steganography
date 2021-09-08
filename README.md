@@ -4,6 +4,8 @@ Please install opencv-python and numpy on your computer for the program to work.
 
 Use command: pip install -r requirements.txt
 
+To run the program open main.py and run it.
+
 https://en.wikipedia.org/wiki/Steganography
 
 This is Least Significant Bit steganography. It changes the LSB of each pixel in an image in order to encode data.
