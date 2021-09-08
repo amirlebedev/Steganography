@@ -1,6 +1,7 @@
 # Steganography
 
 Please install opencv-python and numpy on your computer for the program to work.
+Use command: pip install -r requirements.txt
 
 https://en.wikipedia.org/wiki/Steganography
 
